@@ -61,14 +61,13 @@
 * 7.2 例外の種類と対応方法
 * 7.3 ユーザ定義例外
 * 7.4 クリーンアップ
-# 第8章　標準ライブラリ
-# 8.1 os
-# 8.2 pathlib
-# 8.3 collections
-# 8.4 re
-# 8.5 math／statistics
-# 8.6 datetime
-# 8.7 json
-# 8.8 sqlite3
-# 8.9 decimal
-# 8.10 logging
+# 第8章　標準ライブラリ 8.1 os
+* 8.2 pathlib
+* 8.3 collections
+* 8.4 re
+* 8.5 math／statistics
+* 8.6 datetime
+* 8.7 json
+* 8.8 sqlite3
+* 8.9 decimal
+* 8.10 logging
