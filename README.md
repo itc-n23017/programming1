@@ -20,9 +20,9 @@
 * 2.12 モジュールの利用([問題１](chapter2/Q2_12_1.py))([問題２](chapter2/Q2_12_2.py))
 * 2.13 importのいろいろな書き方([問題１](chapter2/Q2_13_1.py))([問題２](chapter2/Q2_13_2.py))
 ### 第3章　制御構文
-* 3.1 if文の基礎
-* 3.2 if文の応用
-* 3.3 for文の基礎
+* 3.1 if文の基礎([問題１](chapter3/Q3_1_1.py))([問題１](chapter3/Q3_1_2.py))
+* 3.2 if文の応用([問題１](chapter3/Q3_2_1.py))([問題２]chapter3/Q3_2_2.py))
+* 3.3 for文の基礎([問題１](chapter3/Q3_3_1.py))([問題２](chapter3/Q3_3_2.py))
 * 3.4 for文の応用
 * 3.5 while文の基礎
 * 3.6 whileを使ったプログラミング
