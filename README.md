@@ -39,7 +39,7 @@
 * 4.8 デコレータ([問題１](chapter4/Q4_8_1.py))([問題２](chapter4/Q4_8_2.py))
 * 4.9 コーディングスタイル([問題１](chapter4/Q4_9_1.py))([問題２](chapter4/Q4_9_2.py))
 ### 第5章　データ構造
-* 5.1 リストのメソッド([問題１](chapter5/Q5_1_1.py))([問題２](cahpter5/Q5_1_2.py))([問題３](chapter5/Q5_1_3.py))
+* 5.1 リストのメソッド([問題１](chapter5/Q5_1_1.py))([問題２](chapter5/Q5_1_2.py))([問題３](chapter5/Q5_1_3.py))
 * 5.2 リスト内包表記([問題１](chapter5/Q5_2_1.py))([問題２](chapter5/Q5_2_2.py))([問題３](chapter5_2_3.py))
 * 5.3 del を使った削除([問題１](chapter5/Q5_3_1.py))([問題２](chapter5/Q5_3_2.py))
 * 5.4 タプル([問題１](chapter5/Q5_4_1.py))([問題２](chapter5/Q5_4_2.py))([問題３](chapter5/Q5_4_3.py))
